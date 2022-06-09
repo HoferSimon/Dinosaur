@@ -84,12 +84,12 @@ footer{
     background: #000;
     width: 100vw;
     padding: 20px;
-padding-bottom: 40px;
+    padding-bottom: 40px;
     text-align: center;
 }
 
 .footer-bottom p{
-float: left;
+    float: left;
     font-size: 14px;
     word-spacing: 2px;
     text-transform: capitalize;
@@ -117,8 +117,8 @@ float: left;
 }
 
 .footer-menu ul li{
-padding-right: 10px;
-display: block;
+    padding-right: 10px;
+    display: block;
 }
 
 .footer-menu ul li a{
@@ -131,10 +131,10 @@ display: block;
 }
 
 @media (max-width:500px){
-.footer-menu ul{
-    display: flex;
-    margin-top: 10px;
-    margin-bottom: 20px;
+    .footer-menu ul{
+        display: flex;
+        margin-top: 10px;
+        margin-bottom: 20px;
 }
 
 }
